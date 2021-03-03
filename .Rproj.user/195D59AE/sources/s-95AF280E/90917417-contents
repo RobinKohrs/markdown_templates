@@ -1,0 +1,17 @@
+---
+title: Basics about rainfall thresholds
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    css: style.css
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Adding an RMarkdown Template
+
+This is Robins awesome basic html template
